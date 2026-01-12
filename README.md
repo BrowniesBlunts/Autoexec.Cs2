@@ -92,6 +92,4 @@ Las configuraciones incluidas están adaptadas a preferencias personales y puede
 Se recomienda ajustar el autoexec según las necesidades individuales.
 
 ---
-
-## Autor
 By BrowniesBlunts.
