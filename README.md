@@ -35,6 +35,9 @@ El uso de un autoexec permite mantener un entorno de juego controlado, replicabl
 
 Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
 
+<img width="661" height="93" alt="{2FC4E0A7-F0CA-4D52-A394-2949AC8A8D4D}" src="https://github.com/user-attachments/assets/d6134509-a82e-4da4-8a14-7e6a061ea2d8" />
+
+
 
 ---
 
