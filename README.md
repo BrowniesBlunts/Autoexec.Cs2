@@ -35,9 +35,7 @@ El uso de un autoexec permite mantener un entorno de juego controlado, replicabl
 
 Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
 
-<img width="661" height="93" alt="{2FC4E0A7-F0CA-4D52-A394-2949AC8A8D4D}" src="https://github.com/user-attachments/assets/d6134509-a82e-4da4-8a14-7e6a061ea2d8" />
-
-
+<img width="652" height="90" alt="{0B18AF07-185E-4D36-B266-85E3DFE804FA}" src="https://github.com/user-attachments/assets/ce167ee4-74b7-4a0d-944f-f86522f23ad3" />
 
 ---
 
@@ -50,20 +48,20 @@ Para asegurar la ejecución automática del autoexec al iniciar CS2, agrega el s
 
 ---
 
-## Estructura del Autoexec
+ ## 1. Estructura del Autoexec
 
 El archivo está organizado por secciones para facilitar su lectura y mantenimiento:
 
-### Configuración de red
+### 2. Configuración de red
 Ajustes relacionados con la sincronización cliente-servidor y estabilidad de conexión para un entorno competitivo consistente.
 
-### Configuración de rendimiento
+### 3. Configuración de rendimiento
 Parámetros orientados a la estabilidad de FPS, reducción de micro-stuttering y uso eficiente de los recursos del sistema.
 
-### Configuración de control
+### 4. Configuración de control
 Incluye sensibilidad, bindings personalizados y comandos rápidos enfocados en precisión y memoria muscular.
 
-### Configuración visual y HUD
+### 5. Configuración visual y HUD
 Opciones relacionadas con HUD, crosshair y viewmodel, diseñadas para maximizar visibilidad y minimizar distracciones.
 
 ---
